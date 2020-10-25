@@ -2,16 +2,16 @@
 
 
 <a target="_blank" href="https://Aron-Tn.github.io">
-  <img align="left" alt="KMx404 | Blog" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="aron-tn | Blog" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/Amyr_Gov">
-  <img align="left" alt="KMx404 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="aron-tn | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
    <a target="_blank" href="https://www.instagram.com/Amyr.gov.tn/">
   <img align="left"  eight="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  /></a>
    
 <a target="_blank" href="https://www.facebook.com/amyr.gov.tn">
-  <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
+  <img align="left" alt=aron-tn's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
 <a target="_blank" href="https://www.youtube.com/AronTnXofficial">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1024px-YouTube_social_red_circle_%282017%29.svg.png" />
@@ -52,5 +52,5 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aron-Tn&show_icons=true&include_all_commits=true" alt="KMx404's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aron-Tn&show_icons=true&include_all_commits=true" alt="aron-tn's github stats" />
 </a>
