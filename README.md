@@ -1,9 +1,7 @@
 ### Hi there, I'm [Aron-Tn!](https://www.facebook.com/Aron.Tn/) 👋
 
 
-<a target="_blank" href="https://Aron-Tn.github.io">
-  <img align="left" alt="aron-tn | Blog" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+
 <a target="_blank" href="https://twitter.com/Amyr_Gov">
   <img align="left" alt="aron-tn | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
