@@ -6,6 +6,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ARON-TN</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
+<a href="https://github.com/aron-tn">
+    <img src="https://komarev.com/ghpvc/?username=aron-tn">
+</a><br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aron-tn" alt="aron-tn" /></a> </p>
 
 
@@ -73,9 +77,3 @@
 <a href="https://fb.com/amyr.gov.tn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amyr.gov.tn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arontnxofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arontnxofficial" height="30" width="40" /></a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/aron-tn">
-    <img src="https://komarev.com/ghpvc/?username=aron-tn">
-</a>
-<a href="https://github.com/aron-tn?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
