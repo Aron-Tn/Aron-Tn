@@ -21,10 +21,7 @@
 <a href="https://fb.com/amyr.gov.tn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amyr.gov.tn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arontnxofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arontnxofficial" height="30" width="40" /></a>
 </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arontn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arontn" /></a></p><br><br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aron-tn&show_icons=true&locale=en&layout=compact" alt="aron-tn" /></p>
 
