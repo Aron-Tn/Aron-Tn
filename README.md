@@ -3,9 +3,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ARON-TN</h1>
-<h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
-
 <a href="https://github.com/aron-tn">
     <img src="https://komarev.com/ghpvc/?username=aron-tn">
 </a><br>
