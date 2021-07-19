@@ -1,6 +1,4 @@
 # 👋 Hello! I'm Amir Othman known as ARON-TN
-I'm a full-stack developer and mainly use Flutter,React & MeteorJS
-
 Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARON-TN&label=Views&color=blue&style=plastic" alt="ARON-TN" /> </p>
