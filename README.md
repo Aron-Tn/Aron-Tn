@@ -1,65 +1,24 @@
-<h1 align="center">Hi 👋, I'm ARON-TN</h1>
-<h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
+# 👋 Hello! I'm Amir Othman known as ARON-TN
+I'm a full-stack developer and mainly use Flutter,React & MeteorJS
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
 
-<a href="https://github.com/aron-tn">
-    <img src="https://komarev.com/ghpvc/?username=aron-tn">
-</a><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARON-TN&label=Views&color=blue&style=plastic" alt="ARON-TN" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aron-tn" alt="aron-tn" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=X-SLAYER)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ARON-TN&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARON-TN&layout=compact" />
+</div>
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **developing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aron-tn?tab=repositories](https://github.com/aron-tn?tab=repositories)
-
-- 📫 How to reach me **aron.tn.official@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/aron-tn/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aron-tn's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aron-tn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/aron-tn"><img alt="aron-tn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aron-tn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/aron-tn"><img alt="aron-tn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aron-tn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## Connect with me
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Aron.Tn/)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/YOUTUBE-red?logo=youtube&logoColor=white&style=for-the-badge" />](https://www.youtube.com/arontnxofficial)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/TWITTER-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/amyr_gov)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white&style=for-the-badge" />](https://t.me/aron_tn)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/ICQ-green?logo=icq&logoColor=white&style=for-the-badge" />](https://icq.im/aron_tn)
 
 
 <br/>
 <br/>
-
-<a href="https://github.com/aron-tn"><img alt="aron-tn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aron-tn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/amyr_gov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amyr_gov" height="30" width="40" /></a>
-<a href="https://fb.com/amyr.gov.tn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amyr.gov.tn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arontnxofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arontnxofficial" height="30" width="40" /></a>
-</p>
