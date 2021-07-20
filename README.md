@@ -3,7 +3,7 @@ Remember, open source is not commercial software development. The projects I sha
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARON-TN&label=Views&color=blue&style=plastic" alt="ARON-TN" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=X-SLAYER)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ARON-TN)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ARON-TN&count_private=true&include_all_commits=true" />
