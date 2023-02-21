@@ -14,7 +14,7 @@ Remember, open source is not commercial software development. <br/>The projects 
 
 
 ## Find me around the web 🌎: 
-<a href="https://github.com/Aron-Tn/"><img align="left" width="150" height="151" src="https://cdn141.picsart.com/336416818006211.png"></a>
+<a href="https://github.com/Aron-Tn/"><img align="left" width="150" height="131" src="https://png.pngtree.com/png-vector/20220916/ourmid/pngtree-business-man-coming-out-of-laptop-giving-ok-sign-png-image_6178785.png"></a>
 - Facebook : <a href="https://www.facebook.com/aron.tn/">Page</a> 💼
 - YouTube : <a href="https://www.youtube.com/arontnxofficial">Click Here</a> 💼
 - Telegram : <a href="https://t.me/aron_tn">Click Here</a> 💼
