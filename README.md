@@ -1,4 +1,4 @@
-# Hi, I'm Amir Othman, also known as ARON-TN 👋👨‍💻
+# Hi, I'm ARON-TN 👋👨‍💻
 
 Open source is a passion project different from commercial software development. The tools and projects I share are crafted to simplify my daily routines, offering them to the community in the spirit of open collaboration. I value and respect the time and effort all contributors invest in open source, contributing freely to a shared knowledge base.
 
