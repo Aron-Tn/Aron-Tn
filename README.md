@@ -139,19 +139,6 @@ const aron = {
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 20px;">
-    <a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=ARON-TN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true&line_height=20" alt="GitHub Stats" /></a>
-    <a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARON-TN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&langs_count=6&card_width=450" alt="Top Languages" /></a>
-</div>
-
-</div>
-
-<br/>
-
 ## 💭 Random Dev Quote
 
 <div align="center">
